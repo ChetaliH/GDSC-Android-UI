@@ -1,0 +1,30 @@
+# Android specific files
+.gradle
+/local.properties
+/.idea/
+/build
+/captures
+.externalNativeBuild
+
+# IntelliJ/Android Studio
+*.iml
+.idea/workspace.xml
+.idea/libraries
+.idea/modules.xml
+.idea/caches
+.idea/assetWizardSettings.xml
+
+# User-specific files
+.DS_Store
+*.log
+*.keystore
+*.jks
+
+# Firebase
+/google-services.json
+
+# Kotlin
+*.class
+*.jar
+*.war
+*.ear
